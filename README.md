@@ -1,4 +1,5 @@
-<br /> Because Some of the sources are used in the business. This repository only shows the demo at the university project level. Demo video: https://www.youtube.com/watch?v=ziRH4yTMlMg&t=1s
+<br /> Because some of the sources are used in the business. This repository only shows the demo at the university project level. Demo video: https://www.youtube.com/watch?v=ziRH4yTMlMg&t=1s
+<br />
 <br /> Designed auto cat toilet with physics body, weight sensors, motor, motor controller, power shiftier, ESP8266 WiFi module, Databases, Android Application, web-host, and cat healthy monitor interfaces.
 <br /> Improved the auto cat toilet with a real-time cat healthy monitor system by adding weight sensors and databases recording the cat weights, toilet use, and cat sand left.
 <br />![Auito_Cat_Toilet](https://user-images.githubusercontent.com/95834784/182670546-e059f546-c029-417d-a1c2-7a2a255b6a58.jpg)
